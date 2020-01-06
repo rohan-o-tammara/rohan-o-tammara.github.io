@@ -1,8 +1,0 @@
----
-title:  "Hi"
-date:   2020-01-02 14:07:00 +0530
-categories: message
----
-
-Hello there. This blog is a place where I write about my experiences in the world of technology, my projects and all the related things I'm curious about and
-interested in. Hope you enjoy reading through the posts. Thanks for tuning in.
